@@ -2,7 +2,7 @@ from selene import browser, have
 from allure import title, tag, step, severity, label
 
 
-@severity('Medium')
+@severity('NORMAL')
 @tag('UI')
 @label('p2h.com')
 @title('Checking the availability and display of the case studies page on the website ')
